@@ -9,3 +9,15 @@ C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.deps.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll

@@ -9,3 +9,15 @@ C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\Bu
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\refint\BuberDinner.Domain.dll
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\ref\BuberDinner.Domain.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\bin\Debug\net8.0\BuberDinner.Domain.deps.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.AssemblyInfo.cs
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.sourcelink.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\refint\BuberDinner.Domain.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\ref\BuberDinner.Domain.dll

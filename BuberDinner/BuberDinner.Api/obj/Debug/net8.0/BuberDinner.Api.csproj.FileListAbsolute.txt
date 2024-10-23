@@ -39,3 +39,39 @@ C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Buber
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Application.pdb
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\appsettings.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.exe
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.deps.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.runtimeconfig.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Contracts.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.AssemblyReference.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfoInputs.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfo.cs
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.BuberDinner.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.BuberDinner.Api.props
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BuberDinner.Api.props
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BuberDinner.Api.props
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\scopedcss\bundle\BuberDinner.Api.styles.css
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDin.4FE96569.Up2Date
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\refint\BuberDinner.Api.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll

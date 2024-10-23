@@ -13,3 +13,19 @@ C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Application\bin\Debug\net8
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.pdb
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.AssemblyReference.cache
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDin.E7CA8231.Up2Date
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.deps.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Application.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\bin\Debug\net8.0\BuberDinner.Domain.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.sourcelink.json
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDin.E7CA8231.Up2Date
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\refint\BuberDinner.Application.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\BuberDinner.Application.pdb
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Application\obj\Debug\net8.0\ref\BuberDinner.Application.dll

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Adriel\\.nuget\\packages\\": {}
+    "C:\\Users\\adriel.pereira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desenvolvimento\\Estudo ddd\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+      "projectUniqueName": "C:\\Estudos\\DDDnaPratica\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
       "projectName": "BuberDinner.Domain",
-      "projectPath": "C:\\Desenvolvimento\\Estudo ddd\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
-      "packagesPath": "C:\\Users\\Adriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Desenvolvimento\\Estudo ddd\\BuberDinner\\BuberDinner.Domain\\obj\\",
+      "projectPath": "C:\\Estudos\\DDDnaPratica\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+      "packagesPath": "C:\\Users\\adriel.pereira\\.nuget\\packages\\",
+      "outputPath": "C:\\Estudos\\DDDnaPratica\\BuberDinner\\BuberDinner.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Adriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adriel.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
