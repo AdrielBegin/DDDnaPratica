@@ -5,17 +5,11 @@ C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Buber
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.runtimeconfig.json
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.dll
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\BuberDinner.Api.pdb
-C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.AssemblyReference.cache
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfoInputs.cache
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.AssemblyInfo.cs
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.csproj.CoreCompileInputs.cache
-C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -75,3 +69,11 @@ C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\refint\Bube
 C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.pdb
 C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.genruntimeconfig.cache
 C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\ref\BuberDinner.Api.dll
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

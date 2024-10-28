@@ -26,7 +26,7 @@ public class AuthenticationController : ControllerBase
             registerRequest.Email,
             registerRequest.Password);
         
-        var reponse = new  AuthenticationResponse(
+        var response = new  AuthenticationResponse(
             authResult.Id,
             authResult.FirstName,
             authResult.LastName,
@@ -34,7 +34,7 @@ public class AuthenticationController : ControllerBase
             authResult.Token
         );    
 
-        return Ok(reponse);
+        return Ok(response);
     }
     
     [HttpPost("login")]
@@ -45,7 +45,7 @@ public class AuthenticationController : ControllerBase
             loginRequestregister.Email,
             loginRequestregister.Password);
         
-        var reponse = new  AuthenticationResponse(
+        var response = new  AuthenticationResponse(
             authResult.Id,
             authResult.FirstName,
             authResult.LastName,
@@ -53,8 +53,7 @@ public class AuthenticationController : ControllerBase
             authResult.Token
         );   
 
-        return Ok(reponse);
+        return Ok(response);
     }
-
 
 }

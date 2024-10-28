@@ -33,3 +33,4 @@ C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\
 C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\refint\BuberDinner.Infrastructure.dll
 C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.pdb
 C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\ref\BuberDinner.Infrastructure.dll
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.sourcelink.json

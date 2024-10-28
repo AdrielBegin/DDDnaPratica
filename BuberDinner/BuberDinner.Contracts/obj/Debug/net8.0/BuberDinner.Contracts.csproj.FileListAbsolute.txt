@@ -21,3 +21,4 @@ C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\Buber
 C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
 C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
 C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
+C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json
