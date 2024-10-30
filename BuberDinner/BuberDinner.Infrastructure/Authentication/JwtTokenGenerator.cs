@@ -2,6 +2,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using BuberDinner.Application.Common.Interfarces.Authentication;
+using BuberDinner.Application.Common.Interfarces.Persistence;
 using BuberDinner.Application.Common.Interfarces.Services;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
@@ -11,9 +12,11 @@ namespace BuberDinner.Infrastructure.Authentication;
 public class JwtTokenGenerator : IJwtTokenGenerator
 {
     private readonly IDateTimeProvider _dateTimeProvider;
-    private readonly JwtSettings _jwtSettings;
+    private readonly JwtSettings _jwtSettings;    
 
-    public JwtTokenGenerator(IDateTimeProvider dateTimeProvider, IOptions<JwtSettings> jwtOptions)
+    public JwtTokenGenerator(
+        IDateTimeProvider dateTimeProvider,
+         IOptions<JwtSettings> jwtOptions)
     {
         _dateTimeProvider = dateTimeProvider;
         _jwtSettings = jwtOptions.Value;

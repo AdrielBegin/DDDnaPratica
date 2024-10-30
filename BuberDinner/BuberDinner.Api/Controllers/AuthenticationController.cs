@@ -3,6 +3,7 @@ using BuberDinner.Application.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authentication;
 using BuberDinner.Application.Services.Authentication;
+using BuberDinner.Application.Common.Interfarces.Persistence;
 
 namespace BuberDinner.Api.Controllers;
 
@@ -11,10 +12,9 @@ namespace BuberDinner.Api.Controllers;
 public class AuthenticationController : ControllerBase
 {
     private readonly IAuthenticationServices _authenticationServices;
-
-    public AuthenticationController(IAuthenticationServices authenticationServices)
+    public AuthenticationController( IAuthenticationServices authenticationServices)
     {        
-        _authenticationServices = authenticationServices;
+        _authenticationServices = authenticationServices;        
     }
 
     [HttpPost("register")]
