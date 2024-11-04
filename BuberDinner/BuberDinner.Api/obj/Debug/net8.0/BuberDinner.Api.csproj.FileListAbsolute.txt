@@ -77,3 +77,10 @@ C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Micro
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Desenvolvimento\Estudo ddd\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Estudos\DDDnaPratica\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
