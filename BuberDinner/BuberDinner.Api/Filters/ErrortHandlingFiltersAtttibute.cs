@@ -7,15 +7,12 @@ public class ErrortHandlingFiltersAtttibute : ExceptionFilterAttribute
 {
     public override void OnException(ExceptionContext context)
     {
-        if (context.Exception is null)
-        {
-            return;
-        }
-        context.Result = new ObjectResult(new
-        {
-            error = context.Exception.Message
-        });
+        var exception = context.Exception;
 
+        context.Result = new ObjectResult(new { error = "An erro occurred while processing your request" }){
+            StatusCode = 500
+        };
+        context.ExceptionHandled = true;
     }
 
 }
